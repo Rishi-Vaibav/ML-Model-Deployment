@@ -1,0 +1,5 @@
+outs:
+- md5: 113de04cb8b56e33e846f66309f34f52
+  size: 58
+  hash: md5
+  path: movieverdict.pkl
